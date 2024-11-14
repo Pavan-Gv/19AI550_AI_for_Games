@@ -1,6 +1,7 @@
 # Ex.No: 10  Implementation of Negamax Search
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221240024
+
 ### AIM: 
 Write a Nega-max search algorithm to find the root value of Player from the  graph.
 ### Algorithm:
@@ -15,7 +16,26 @@ Write a Nega-max search algorithm to find the root value of Player from the  gra
 
 ### Program:
 
+~~~
+import math
 
+def negamax(curDepth, nodeIndex, scores, targetDepth):
+    # Base case: target depth reached
+    if curDepth == targetDepth:
+        return scores[nodeIndex]
+
+    # Negamax assumes max turn is represented by positive values
+    value1 = negamax(curDepth + 1, nodeIndex * 2, scores, targetDepth)
+    value2 = negamax(curDepth + 1, nodeIndex * 2 + 1, scores, targetDepth)
+
+    return max(-value1, -value2)  # Flip the sign for the other player's turn
+
+# Driver code
+scores = [3, 5, 2, 9, 12, 5, 23, 20]
+treeDepth = math.log(len(scores), 2)  # Calculate depth of node, log(8, base 2) = 3
+print("The optimal value is: ", end="")
+print(negamax(0, 0, scores, int(treeDepth)))
+~~~
 
 
 
@@ -26,6 +46,7 @@ Write a Nega-max search algorithm to find the root value of Player from the  gra
 
 
 ### Output:
+<img width="316" alt="image" src="https://github.com/user-attachments/assets/bf63af21-ebbd-4edf-983d-6daced1a1587">
 
 
 
