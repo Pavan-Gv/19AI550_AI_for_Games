@@ -271,6 +271,8 @@ while not game_over:
 <img width="609" alt="Screenshot 2024-11-14 at 9 23 41 PM" src="https://github.com/user-attachments/assets/c04be3b3-c8db-4c83-9049-2f943fde5902">
 
 
+
+
 <img width="299" alt="Screenshot 2024-11-14 at 9 27 59 PM" src="https://github.com/user-attachments/assets/2610c455-acfc-47c5-a8cb-bdb24f1f76ae">
 
 ### Result:
