@@ -35,7 +35,8 @@ PLAYER = 0
 AI = 1
 
 # Constants representing player and AI game pieces on the board
-PLAYER_PIECE = 1
+
+
 AI_PIECE = 2
 # Function to create an empty game board.
 def create_board():
@@ -268,7 +269,7 @@ while not game_over:
 
 ### Output:
 
-
+<img width="299" alt="Screenshot 2024-11-14 at 9 29 04 PM" src="https://github.com/user-attachments/assets/3d04872e-44b0-4cff-924f-11c49f316628">
 
 
 
