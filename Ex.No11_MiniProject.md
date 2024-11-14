@@ -268,7 +268,6 @@ while not game_over:
 
 ### Output:
 
-<img width="609" alt="Screenshot 2024-11-14 at 9 23 41 PM" src="https://github.com/user-attachments/assets/c04be3b3-c8db-4c83-9049-2f943fde5902">
 
 
 
