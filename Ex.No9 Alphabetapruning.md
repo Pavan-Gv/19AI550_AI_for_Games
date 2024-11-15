@@ -65,7 +65,8 @@ if __name__ == "__main__":
 
 ### Output:
 
-![Uploading image.png…]()
+
+![Screenshot 2024-11-15 103317](https://github.com/user-attachments/assets/8e3d8cd9-9522-4cd6-809a-a04ba36abf17)
 
 
 ### Result:
