@@ -96,8 +96,10 @@ while True:
 ```
 ### Output:
 
-![Screenshot 2024-09-20 093811](https://github.com/user-attachments/assets/84fbcb8f-1668-4a7a-9589-c38045f506cd)
-![Screenshot 2024-09-20 093828](https://github.com/user-attachments/assets/285e6054-2a32-4a0d-8e4b-50865e7718ff)
+
+![image](https://github.com/user-attachments/assets/b956d8e6-43e5-4c01-b6ca-73eb9a3a9d49)
+
+![Screenshot 2024-11-15 114004](https://github.com/user-attachments/assets/ccfd3e22-fa2f-462f-849a-f928105dd1a0)
 
 
 ### Result:
