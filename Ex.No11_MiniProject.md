@@ -209,4 +209,4 @@ if __name__ == "__main__":
 
 
 ### Result:
-Thus the simple  game was implemented using .......................
+Thus the simple  game was implemented using Yolo Successfully.
