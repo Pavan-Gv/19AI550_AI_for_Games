@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
 
 ### Output:
-  ![image](https://github.com/user-attachments/assets/0a65ec27-59a9-439b-93e8-27221e9d75a3)
+![image](https://github.com/user-attachments/assets/31288dc3-e22c-4c3e-ae42-14014d08db3a)
 
 
 ### Result:
