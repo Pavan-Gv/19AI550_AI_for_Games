@@ -1,6 +1,6 @@
 # Ex.No: 4  Implementation of Snake game using Steering behaviors
 ### DATE:                           
-### Slot:
+### Slot: 4H2-1
 ### Name: G Venkata Pavan Kumar
 ### REGISTER NUMBER : 212221240013
 ### AIM: 
