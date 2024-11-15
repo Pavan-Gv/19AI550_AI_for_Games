@@ -1,6 +1,6 @@
 # Ex.No: 7 Implementation of Decision Tree Learning 
 ### DATE:                           
-### Slot:
+### Slot: 4H2-1
 ### Name: G Venkata Pavan Kumar
 ### REGISTER NUMBER : 212221240013
 
