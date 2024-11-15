@@ -1,6 +1,6 @@
 # Ex.No: 2 Implementation of Stack Plate game using Queue 
 ### DATE:                           
-### Slot:
+### Slot: 4H2-1
 ### Name: G Venkata Pavan Kumar
 ### REGISTER NUMBER : 212221240013
 ### AIM: 
