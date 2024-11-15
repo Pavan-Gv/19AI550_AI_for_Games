@@ -10,21 +10,32 @@ To write a python program to simulate the game using YOLO Algorithm.
 
 ### Algorithm:
 1.Initialize Pygame and set up screen dimensions, colors, and constants.
+
 2. Load spaceship and alien images and scale them to appropriate sizes.
+
 3. Define the Bullet class for handling bullet movement and properties.
+
 4. Define the zombie class for handling alien movement and properties.
+
 5. Initialize main game loop:
+
     -> Process user input for player movement (left, right) and firing bullets (spacebar).
+
     -> Move bullets upwards and remove them if they go off-screen.
+
     -> Move aliens downwards and remove those that go off-screen.
+
     -> Spawn new aliens at random intervals.
-6. Check for collisions between bullets and aliens, updating the score and removing
-    the alien and bullet upon collision.
-7. Check for collisions between the player's shooter and zombies, ending the game
-    if a collision occurs.
-8. Draw all game elements to the screen.
-9. Display the game-over screen with score and options to restart or quit.
-10. Restart the game or quit based on user input from the game-over screen.
+
+7. Check for collisions between bullets and aliens, updating the score and removing the alien and bullet upon collision.
+
+8. Check for collisions between the player's shooter and zombies, ending the game if a collision occurs.
+
+9. Draw all game elements to the screen.
+
+10. Display the game-over screen with score and options to restart or quit.
+
+11. Restart the game or quit based on user input from the game-over screen.
 
 ### Program:
 ```python
