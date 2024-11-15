@@ -1,6 +1,6 @@
 # Ex.No: 9   Implementation of Alpha Beta Pruning 
 ### DATE:                           
-### Slot:
+### Slot: 4H2-1
 ### Name: G Venkata Pavan Kumar
 ### REGISTER NUMBER : 212221240013
 ### AIM: 
