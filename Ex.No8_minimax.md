@@ -1,6 +1,6 @@
 # Ex.No: 8  Implementation of Minimax Search
 ### DATE:                           
-### Slot:
+### Slot: 4H2-1
 ### Name: G Venkata Pavan Kumar
 ### REGISTER NUMBER : 212221240013
 
