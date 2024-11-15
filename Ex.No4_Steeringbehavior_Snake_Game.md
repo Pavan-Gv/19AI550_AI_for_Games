@@ -111,9 +111,9 @@ while True:
     clock.tick(FPS)
 ```
 ### Output:
+![Screenshot 2024-11-15 113635](https://github.com/user-attachments/assets/259f98aa-0146-4c1c-90bd-79d372cf6f83)
 
-![image](https://github.com/user-attachments/assets/e54a034a-36e0-429b-b31d-c570012c1eca)
-![image](https://github.com/user-attachments/assets/aab8eb6b-7b31-4be8-a374-6b836f3fa533)
+![Screenshot 2024-11-15 113701](https://github.com/user-attachments/assets/5973e939-edc8-417e-8c61-90edaf29c214)
 
 
 ### Result:
