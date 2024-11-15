@@ -1,6 +1,9 @@
 # Ex.No: 7 Implementation of Decision Tree Learning 
-## DATE:
-## REGISTER NUMBER :
+### DATE:                           
+### Slot:
+### Name: G Venkata Pavan Kumar
+### REGISTER NUMBER : 212221240013
+
 # AIM:
 Design a decision tree for following data. 
 1 Healthy, In Cover, With Ammo -> Attack
